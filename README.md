@@ -46,7 +46,8 @@ The dashboard helps analyze:
 ---
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1649" height="772" alt="image" src="https://github.com/user-attachments/assets/ae03747a-4ef5-44a7-b1d9-94e5d2e58df7" />
+
 
 ---
 
